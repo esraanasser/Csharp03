@@ -338,10 +338,21 @@
             #region 25
             //int num = 1, z = 5;
 
-           // if (!(num <= 0)) //condition will return true
-               // Console.WriteLine(++num + z++ + " " + ++z); // this will excute
-           // else
-             //   Console.WriteLine(--num + z-- + " " + --z);
+            // if (!(num <= 0)) //condition will return true
+            // Console.WriteLine(++num + z++ + " " + ++z); // this will excute
+            // else
+            //   Console.WriteLine(--num + z-- + " " + --z);
+
+            //d)	7 7
+
+            #endregion
+            #region 25
+            //int num = 1, z = 5;
+
+            // if (!(num <= 0)) //condition will return true
+            // Console.WriteLine(++num + z++ + " " + ++z); // this will excute
+            // else
+            //   Console.WriteLine(--num + z-- + " " + --z);
 
             //d)	7 7
 
